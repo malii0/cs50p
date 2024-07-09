@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains my solutions and final project for CS50p, an introductory programming course offered by Harvard University. You can access the short video where I explain my project through this link: [Project Link](https://youtu.be/gFjPwhb2cC4)
+This repository contains my solutions and final project for CS50p, an introductory programming course offered by Harvard University. You can access the short video where I explain my project through this link: [Video](https://youtu.be/gFjPwhb2cC4)
 
 ## Final Project
 
