@@ -1,39 +1,39 @@
 # CS50p - Problem Sets and Final Project
 
-![Downloads](https://img.shields.io/github/downloads/malii0/cs50p/total) ![Contributors](https://img.shields.io/github/contributors/malii0/cs50p?color=dark-green) ![Issues](https://img.shields.io/github/issues/malii0/cs50p) ![License](https://img.shields.io/github/license/malii0/cs50p) 
+[![Downloads](https://img.shields.io/github/downloads/malii0/cs50p/total)](https://camo.githubusercontent.com/6589caa52d96354fa58119e8f107cad4630f7382fed98cc0e08f16dd98d8fb4a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6d616c6969302f63733530702f746f74616c) [![Contributors](https://img.shields.io/github/contributors/malii0/cs50p?color=dark-green)](https://camo.githubusercontent.com/5e4be3b34046c08851246e0cb88f4d1f3cf9c7f5142bfe72bcb766df17542f45/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6d616c6969302f63733530703f636f6c6f723d6461726b2d677265656e) [![Issues](https://img.shields.io/github/issues/malii0/cs50p)](https://camo.githubusercontent.com/abfc5ee4431f582745d49d0452deeb4150f164c020ea97df79e5737bf5ce2dc8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6d616c6969302f6373353070) [![License](https://img.shields.io/github/license/malii0/cs50p)](https://camo.githubusercontent.com/e4e2285a85053d8a29a5b6b480ffb56ced9e511cde0d60eba362795263de45d9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d616c6969302f6373353070)
 
 ## Overview
 
-This repository contains my solutions and final project for CS50p, an introductory programming course offered by Harvard University. You can access the short video where I explain my project through this link: [Video](https://youtu.be/gFjPwhb2cC4)
+My solutions and final project for CS50P, Harvard's introductory Python programming course. I recorded a short walkthrough of the final project here: [Video](https://youtu.be/gFjPwhb2cC4).
 
 ## Final Project
 
-The final project, located in the `FinalProject` directory, is a Python-based Password Manager application. It allows users to securely manage their passwords and sensitive information. For detailed instructions on how to use the Password Manager, please refer to the [README](FinalProject/README.md) file inside the `FinalProject` directory.
+The final project, in the `FinalProject` directory, is a Python-based password manager for securely storing and managing sensitive information. Setup and usage instructions are in its own [README](https://github.com/malii0/cs50p/blob/main/FinalProject/README.md).
 
 ## Problem Sets
 
-Each problem set solution is organized into directories named `ProblemSet0`, `ProblemSet1`, etc. These directories contain my solutions to the weekly assignments.
+Weekly assignment solutions are organized by directory: `ProblemSet0` through `ProblemSet8`.
 
 ## Built With
 
-- Python: The programming language used for both the problem sets and the final project.
-- Various Python modules for specific functionalities.
+- Python
+- Various standard and third-party Python modules, as needed per problem set
 
 ## Contributing
 
-Thank you for considering contributing to this repository! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. Your contributions are greatly appreciated.
+If you spot an issue or have a suggestion, feel free to open an issue or pull request.
 
-### Creating A Pull Request
+**To submit a PR:**
 
-1. Fork the repository on GitHub.
-2. Create a new branch for your contribution with a descriptive name.
-3. Make your changes and commit them with clear and concise messages.
-4. Push your changes to your forked repository and submit a pull request.
+1. Fork the repository
+2. Create a branch with a descriptive name
+3. Make your changes with clear commit messages
+4. Push and open a pull request
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License. See [LICENSE](https://github.com/malii0/cs50p/blob/main/LICENSE) for details.
 
 ## Note
 
-This Password Manager is intended for personal use only. Users are responsible for ensuring the security of their passwords and data. The application does not guarantee absolute security and is not liable for any loss or damage caused by its use.
+The password manager is intended for personal use. It doesn't guarantee absolute security, and you're responsible for keeping your own data safe.
